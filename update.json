@@ -1,11 +1,14 @@
 {
-  "latest": "0.2.3",
+  "latest": "0.2.4",
   "minimum": "0.2.3",
-  "notes": "Primeira versão com atualizações automáticas.\n- Fase 2 completa: seleções, canais alfa, transformação livre com deformação, escala com reconhecimento de conteúdo, deformações de perspectiva e de marionete, alinhar camadas automaticamente, área de foco e corte completo.\n- Menus da barra superior corrigidos (agora clicáveis).\n- A partir desta versão, o PHOTORYX se atualiza sozinho.",
+  "notes": "0.2.4",
   "releaseDate": "2026-10-15",
   "windows": {
-    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.3/PHOTORYX-Setup-0.2.3.exe",
-    "sha512": "nK/WeBYQzzcfASO21B4vuvNttJd7EfJVwQIBBOawET59pMKjC6zTVGRZhHshGQSSfS/E+4V5mNFVwpkJjYlhWA==",
-    "size": 112086999
-  }
+    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.4/PHOTORYX-Setup-0.2.4.exe",
+    "sha512": "Y5D1LV1p1bs172bvaem1LNvkJ5G4wGSziDidUgBVsYbiUxXe68nFccnc0H/TTg1gitnZHX5Zj3UT5PcOX1AUbA==",
+    "size": 112088605
+  },
+  "app": "com.atlasx.photoryx",
+  "issuedAt": "2026-10-15T04:08:18.018Z",
+  "signature": "DQsLLQAPyxOYagKO4k0rjYCE9wp+mz4axCS6L9fKqJFnST28i3NDRVT9wYknfw3/w91pZxPVxwoDVgx6FxqiBA=="
 }
