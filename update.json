@@ -1,14 +1,14 @@
 {
-  "latest": "0.2.7",
-  "minimum": "0.2.7",
-  "notes": "O que mudou",
+  "latest": "0.3.0",
+  "minimum": "0.3.0",
+  "notes": "Fase 3A: pintura.\n- Motor de pincéis completo: forma da ponta, dinâmica de forma, dispersão, textura, pincel duplo, dinâmica de cor, transferência, pose, ruído, bordas molhadas, acúmulo, suavização e simetria de pintura; suporte a caneta (pressão, inclinação e giro).\n- Novas ferramentas: Substituição de cor, Pincel misturador, Borracha de plano de fundo, Borracha mágica, Degradê (com editor), Lata de tinta, Pincel do histórico, Pincel história da arte e Amostra de cor.\n- Painéis Configurações do pincel (F5), Pincéis, Padrões e Degradês; Definir predefinição de pincel e Definir padrão.\n- Correções: traços lentos sem falhas; painéis da coluna de ícones abrem pelo menu Janela e pelos atalhos.",
   "releaseDate": "2026-10-15",
   "windows": {
-    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.7/PHOTORYX-Setup-0.2.7.exe",
-    "sha512": "Ze4tPlkqHVJEz4CCPk4P/yyH1QoATXG+DX9JAJNLGnZXmNQtWYj/wssq/7ZTlQtIVQpMRLVcD9pg7Vs+9qYjIA==",
-    "size": 112088782
+    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.3.0/PHOTORYX-Setup-0.3.0.exe",
+    "sha512": "PjiJnA+8VDQOHWDxry5lsRexg0QLtwGMQbWG2+B9b5RcxC5mxHuvrV0SxUkNU9KmLp0uy6N94HU4bYGYW7dwHw==",
+    "size": 112115626
   },
   "app": "com.atlasx.photoryx",
-  "issuedAt": "2026-10-15T04:27:28.368Z",
-  "signature": "mDovOXDHL5Eh9c6OvcWbRQQhiFalLJy/S8Xj48S3w/N7eh7f+sQDiS4eHBEXlaB0xX6blAKxwFxKju5BFd27DA=="
+  "issuedAt": "2026-10-15T17:01:56.988Z",
+  "signature": "TlNzGLI8VfKECjBMju42oT1tTL61JSd4z49RXApzpFKI8pU2t0oUsSaCeXt4fZxoF4gV6esLjoS/opsZ/E+YAw=="
 }
