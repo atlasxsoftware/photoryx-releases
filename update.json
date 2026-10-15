@@ -1,14 +1,14 @@
 {
-  "latest": "0.2.5",
-  "minimum": "0.2.5",
-  "notes": "Correção de alguns bugs.",
+  "latest": "0.2.6",
+  "minimum": "0.2.6",
+  "notes": "Correção: com uma atualização obrigatória pendente, o PHOTORYX fechava sozinho ao abrir, sem mostrar a janela de atualização.",
   "releaseDate": "2026-10-15",
   "windows": {
-    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.5/PHOTORYX-Setup-0.2.5.exe",
-    "sha512": "KR/VttYj11ydMFEY82pQ7Nlby1qmCC5CBE+xd0kJXXjJ2g0WPmphpBHV9+lXlAppVWuxhedHE8CkSUxR4luxpw==",
-    "size": 112088513
+    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.6/PHOTORYX-Setup-0.2.6.exe",
+    "sha512": "Ax2hnlD2hYm0m0nE61QJO9W7fogprqk2rABhc4/Ll0xAIA+77tLpRJWG6VzoOEox6wxlm6jaP0/CiURl7h1nfw==",
+    "size": 112088749
   },
   "app": "com.atlasx.photoryx",
-  "issuedAt": "2026-10-15T04:20:10.528Z",
-  "signature": "C5Qj+fw2/H54ptq1oXGxuF3UyXlfCKNkkBSqY5wmc72cFHd6URkHBnOmDAOFuC/TE/mN2busBaNU13ID14dtDw=="
+  "issuedAt": "2026-10-15T04:23:56.287Z",
+  "signature": "puzDicu0SnBlxmT0lRyI181wjDZ+awJR47ufcI3aZvblgRNC3A+JQX9vHEOpUhhKTsgQRXiERdwGWdHE8mdDAg=="
 }
