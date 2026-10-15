@@ -1,14 +1,14 @@
 {
-  "latest": "0.2.4",
-  "minimum": "0.2.3",
-  "notes": "0.2.4",
+  "latest": "0.2.5",
+  "minimum": "0.2.5",
+  "notes": "Correção de alguns bugs.",
   "releaseDate": "2026-10-15",
   "windows": {
-    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.4/PHOTORYX-Setup-0.2.4.exe",
-    "sha512": "Y5D1LV1p1bs172bvaem1LNvkJ5G4wGSziDidUgBVsYbiUxXe68nFccnc0H/TTg1gitnZHX5Zj3UT5PcOX1AUbA==",
-    "size": 112088605
+    "url": "https://github.com/atlasxsoftware/photoryx-releases/releases/download/v0.2.5/PHOTORYX-Setup-0.2.5.exe",
+    "sha512": "KR/VttYj11ydMFEY82pQ7Nlby1qmCC5CBE+xd0kJXXjJ2g0WPmphpBHV9+lXlAppVWuxhedHE8CkSUxR4luxpw==",
+    "size": 112088513
   },
   "app": "com.atlasx.photoryx",
-  "issuedAt": "2026-10-15T04:08:18.018Z",
-  "signature": "DQsLLQAPyxOYagKO4k0rjYCE9wp+mz4axCS6L9fKqJFnST28i3NDRVT9wYknfw3/w91pZxPVxwoDVgx6FxqiBA=="
+  "issuedAt": "2026-10-15T04:20:10.528Z",
+  "signature": "C5Qj+fw2/H54ptq1oXGxuF3UyXlfCKNkkBSqY5wmc72cFHd6URkHBnOmDAOFuC/TE/mN2busBaNU13ID14dtDw=="
 }
